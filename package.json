@@ -13,5 +13,9 @@
   ],
   "devDependencies": {
     "nuxt": "^4.4.2"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^4.9.0",
+    "tailwindcss": "^4.3.1"
   }
 }
